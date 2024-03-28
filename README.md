@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @r1n4ld
-- 👀 I’m interested in Ethical Hackin and new knowledges
+- 👀 I’m interested in Ethical Hackin, new knowledges and enjoy programming
 - 🌱 I’m currently learning Python, Django and ITIL
 - 💞️ I’m looking to collaborate on GNU/Linux communit
 - 📫 How to reach me talk about DotA2 or GNU/Linux
